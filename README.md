@@ -1,4 +1,4 @@
-Centos-Backup-Script
+Backup-Script on CentOS
 ====================
 
 The purpose of this script is to create daily backup archives (`tar.gz`) of selected directories/files and/or MYSQL dumps.
